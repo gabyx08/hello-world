@@ -1,2 +1,4 @@
 # hello-world
-practica git-hub
+
+Hola, estoy haciendo una practica de como usar git-hub con ramas.
+=D.
